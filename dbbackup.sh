@@ -4,7 +4,7 @@
 #                       Website source and database back script                                 #
 #Executable parameter : backup_dbnsource.sh <backup_type>  					#
 #Executable parameter : backup_dbnsource.sh F/I (F=Full backup, I=Incremental backup)		#
-# Created by : 	Soumen (soumenmiddey@gmail.com)							#
+# Created by : 	Jayanta Maity (jayantamaity981@gmail.com)							#
 #***********************************************************************************************#
 #echo $#
 
